@@ -1,0 +1,5 @@
+timestamp,data,hora,tag_id,nome,tipo_evento,autorizado,detalhe
+2026-05-05 21:34:08,2026-05-05,21:34:08,498103025204,Bernardo,entrada,sim,Primeira entrada do dia
+2026-05-05 21:34:14,2026-05-05,21:34:14,693825048343,Samuel,tentativa_nao_autorizada,nao,Colaborador sem permissão
+2026-05-05 21:34:20,2026-05-05,21:34:20,497104650867,DESCONHECIDO,tentativa_invasao,nao,Tag não cadastrada
+2026-05-05 21:34:25,2026-05-05,21:34:25,498103025204,Bernardo,saida,sim,Permanência 00:00:17

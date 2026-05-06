@@ -1,0 +1,3 @@
+data,tag_id,nome,autorizado,entrou_hoje,quantidade_entradas,quantidade_saidas,tempo_total_segundos,tempo_total_horas,tentativas_nao_autorizadas
+2026-05-05,498103025204,Bernardo,sim,sim,1,1,17,0.0,0
+2026-05-05,693825048343,Samuel,nao,nao,0,0,0,0.0,1
